@@ -105,7 +105,7 @@
     "it-merge": "^1.0.0",
     "it-pipe": "^1.1.0",
     "it-take": "^1.0.0",
-    "libp2p-crypto": "git+https://github.com/imthe-1/js-libp2p-crypto.git#feat/adap",
+    "libp2p-crypto": "git+https://github.com/imthe-1/js-libp2p-crypto.git#feat/adap-v2",
     "libp2p-interfaces": "^1.0.0",
     "libp2p-utils": "^0.4.0",
     "mafmt": "^10.0.0",
